@@ -90,7 +90,7 @@ section h2 {
 }
 
 #sports {
-    background-color: rgba(0, 255, 0, 0.1)
+    background-color: rgba(15, 149, 15, 0.1)
 }
 
 #sports .articles a {
@@ -106,17 +106,17 @@ section h2 {
 }
 
 #Entertainment {
-    background-color: rgb(157, 213, 194);
+    background-color: rgba(36, 192, 197, 0.1)
 }
 
 #Entertainment .articles a {
-    background-color: rgb(107, 35, 183);
+    background-color: #af5d15;
 }
 
 #Tecnology {
-    background-color: #1d4782;
+    background-color: #93a684;
 }
 
-#Tecnology .articles a {
-    background-color: rgb(68, 91, 30);
+#Tecnology .articles article a {
+    background-color: #110542be;
 }
